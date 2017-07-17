@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title> Pneumatic's Den </title>
+  <h1> Counter-Strike: Global-Offensive </h1>
+ </head>
+<body>
+ <p> I am Pneumatic! I mainly play Counter-Strike: Global-Offensive, but I also frequent Player Unknown's: 
+Battlegrounds. I am decent at CS:GO and I am extremely mediocre, but eh.... whatever. </p>
+<h2> Favourite CS players: </h2>
+ <ol>
+  <li> ScreaM </li>
+  <li> Stewie2k </li>
+  <li> Shroud </li>
+ </body>
+</html> 
+
+    
+ 
